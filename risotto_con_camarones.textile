@@ -1,0 +1,36 @@
+!FROM
+Buena Mesa
+
+!TIME
+40 minutos
+
+!YIELD
+4 porciones
+
+!INGREDIENTS
+1 echalote picado
+2 cucharadas de aceite de oliva
+1 taza de arroz arboreo
+1/3 taza de vino blanco
+4 tazas de camarones pacotilla limpios
+3 cucharadas de parmesano rallado
+2 cucharadas de perejil picado
+
+!DIRECTIONS
+Saltear el echalote en el aceite.
+Agregar el arroz y mover hasta que quede ligeramente transparente.
+Verter el vino hasta que absorba.
+A fuego medio, agregar 1/2 taza de caldo de pollo caliente y mover constantemente.
+Una vez que se reduzca añadir 1/2 taza más de vez en vez hasta que el arroz esté al dente (suave por fuera y duro por dentro).
+Terminar agregando los camarones, queso y perejil. Servir inmediatamente.
+
+!NOTES
+*Contenido Nutrimental* (Por porción)
+
+* Calorías: 370
+* Proteínas: 22g
+* Grasas: 10g
+* Colesterol: 97
+* Carbohidratos: 43g  
+* Sodio: 313mg
+
